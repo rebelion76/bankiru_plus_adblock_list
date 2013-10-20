@@ -2,4 +2,10 @@
 ! Version: 201310210050
 ! Last modified: 21 Oct 2013 01:50 UTC +04:00
 ! Homepage: https://github.com/rebelion76/bankiru_plus_adblock_list
+! Плашка от верхнего баннера
 banki.ru##DIV.header__top-banner.wrapper
+! Правый блок в НР 
+! спецпредложения, м.б. еще где-то
+banki.ru##[class^="b-ad-teaser"]
+! остатки
+banki.ru##DIV.ad-block-240x400
