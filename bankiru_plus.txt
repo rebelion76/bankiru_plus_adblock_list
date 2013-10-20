@@ -2,6 +2,7 @@
 ! Version: 201310210300
 ! Last modified: 21 Oct 2013 03:00 UTC +04:00
 ! Homepage: https://github.com/rebelion76/bankiru_plus_adblock_list
+! Expires: 1h
 ! Плашка от верхнего баннера
 banki.ru##DIV.header__top-banner.wrapper
 ! Рекламные блоки на главной странице
