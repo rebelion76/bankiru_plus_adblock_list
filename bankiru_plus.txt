@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201310210050
-! Last modified: 21 Oct 2013 01:50 UTC +04:00
+! Version: 201310210200
+! Last modified: 21 Oct 2013 02:00 UTC +04:00
 ! Homepage: https://github.com/rebelion76/bankiru_plus_adblock_list
 ! Плашка от верхнего баннера
 banki.ru##DIV.header__top-banner.wrapper
