@@ -6,7 +6,7 @@
 ! Плашка от верхнего баннера
 banki.ru##DIV.header__top-banner.wrapper
 ! Рекламные блоки на главной странице
-banki.ru##ad-block-teaser
+banki.ru##[class^="ad-block-teaser"]
 ! Правый блок в НР 
 ! Спецпредложения
 banki.ru##[class^="b-ad-teaser"]
