@@ -1,20 +1,26 @@
 [Adblock Plus 2.0]
-! Version: 201310212100
-! Last modified: 21 Oct 2013 21:00 UTC +04:00
+! Version: 201310212200
+! Last modified: 21 Oct 2013 22:00 UTC +04:00
 ! Homepage: https://github.com/rebelion76/bankiru_plus_adblock_list
 ! Expires: 2 hours
-! Шапка
-! Плашка от верхнего баннера
+! ----------------------------------------------------
+! Это список для блокировки рекламы на сайте banki.ru,
+! которая не блокируется "обычными" списками
+! Список поддерживается rebelion76 (rebelion76@gmail.com)
+! Вопросы, замечания и преложения принимаются по адресу:
+! http://bankiforum.ru/showthread.php/255-%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B4%D0%BB%D1%8F-Adblock-Plus
+! ----------------------------------------------------                    
+! Шапка. Плашка от верхнего баннера
 banki.ru##DIV.header__top-banner.wrapper
-! Банера рядом с логотипом
+! Шапка. Банера рядом с логотипом
 banki.ru##DIV.header__center-banner
+! Шапка. Банера рядом с логотипом
 banki.ru##DIV.header__right-banner
-! Остатки от поиска
+! Шапка. Остатки от поиска
 banki.ru##A.branded-search__link
-! Рекламные блоки на главной странице 
+! Главная страница. Рекламные блоки  
 banki.ru##[class^="ad-block-teaser"]
-! Правый блок в НР 
-! Спецпредложения
+! Правый блок в НР. Спецпредложения
 banki.ru##[class^="b-ad-teaser"]
-! Остатки от банера выше спецпредложений
+! Правый блок в НР. Остатки от банера выше спецпредложений
 banki.ru##DIV.ad-block-240x400
