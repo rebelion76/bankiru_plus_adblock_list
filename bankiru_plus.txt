@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201310212200
-! Last modified: 21 Oct 2013 22:00 UTC +04:00
+! Version: 201310222200
+! Last modified: 22 Oct 2013 22:00 UTC +04:00
 ! Homepage: https://github.com/rebelion76/bankiru_plus_adblock_list
 ! Expires: 2 hours
 ! ----------------------------------------------------
@@ -24,3 +24,11 @@ banki.ru##[class^="ad-block-teaser"]
 banki.ru##[class^="b-ad-teaser"]
 ! Правый блок в НР. Остатки от банера выше спецпредложений
 banki.ru##DIV.ad-block-240x400
+! Исключение, чтобы не блокировался смайлик ;-) 
+@@||banki.ru/bitrix/images/forum/smile/ad.gif
+! Исключение, чтобы работало верхнее меню
+@@||banki.ru/public/blocks/top-menu/top-menu.js
+! Исключение для красной/желтой карточек/черепа 
+@@||banki.ru/bitrix/templates/.default/components/bitrix/forum/banki/images/popup/icon_card.png
+! Исключение (не помню для чего, но нужно)
+@@||banki.ru/bitrix/components/bitrix/forum.interface/templates/popup/*                                           
