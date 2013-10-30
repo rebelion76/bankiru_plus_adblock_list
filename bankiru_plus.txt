@@ -32,5 +32,7 @@ banki.ru##DIV.ad-block-240x400
 @@||banki.ru/public/blocks/top-menu/top-menu.js
 ! Исключение для красной/желтой карточек/черепа 
 @@||banki.ru/bitrix/templates/.default/components/bitrix/forum/banki/images/popup/icon_card.png
+! Исключение, чтобы работало открытие/скрытие отзывов в HP
+@@||banki.ru/_lib/jquery/plugins/popup/*
 ! Исключение (не помню для чего, но нужно)
 @@||banki.ru/bitrix/components/bitrix/forum.interface/templates/popup/*                                           
