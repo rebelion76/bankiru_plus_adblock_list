@@ -18,6 +18,8 @@ banki.ru##DIV.header__center-banner
 banki.ru##DIV.header__right-banner
 ! Шапка. Остатки от поиска
 banki.ru##A.branded-search__link
+! Подвал. Баннера 
+banki.ru##.ad-block-bottom
 ! Главная страница. Рекламные блоки  
 banki.ru##[class^="ad-block-teaser"]
 ! Главная страница. Рекламный "видео"-блок 
@@ -26,6 +28,7 @@ banki.ru##.ad-block-video
 banki.ru##[class^="b-ad-teaser"]
 ! Правый блок в НР. Остатки от банера выше спецпредложений
 banki.ru##DIV.ad-block-240x400
+
 ! Исключение, чтобы не блокировался смайлик ;-) 
 @@||banki.ru/bitrix/images/forum/smile/ad.gif
 ! Исключение, чтобы работало верхнее меню
