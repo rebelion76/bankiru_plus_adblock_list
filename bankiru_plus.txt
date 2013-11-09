@@ -49,4 +49,4 @@ banki.ru##.b-ad-rightBanner
 ! Исключение, чтобы работало открытие/скрытие отзывов в HP
 @@||banki.ru/_lib/jquery/plugins/popup/*
 ! Исключение (не помню для чего, но нужно)
-@@||banki.ru/bitrix/components/bitrix/forum.interface/templates/popup/*                                           
+@@||banki.ru/bitrix/components/bitrix/forum.interface/templates/popup/*                                     
