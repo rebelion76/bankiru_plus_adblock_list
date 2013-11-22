@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201311210048
-! Last modified: Thu, 21 Nov 2013 00:48:41 +0400
+! Version: 201311230029
+! Last modified: Sat, 23 Nov 2013 00:29:50 +0400
 ! Homepage: https://github.com/rebelion76/bankiru_plus_adblock_list
 ! Expires: 2 hours
 ! ----------------------------------------------------
@@ -50,5 +50,7 @@ banki.ru##.b-ad-rightBanner
 @@||banki.ru/bitrix/templates/.default/components/bitrix/forum/banki/images/popup/icon_card.png
 ! Исключение, чтобы работало открытие/скрытие отзывов в HP
 @@||banki.ru/_lib/jquery/plugins/popup/*
+! Исключение для логотипа Авангарда
+@@||banki.ru/upload/iblock/ad4/*
 ! Исключение (не помню для чего, но нужно)
 @@||banki.ru/bitrix/components/bitrix/forum.interface/templates/popup/*                                     
