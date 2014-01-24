@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201312262315
-! Last modified: Thu, 26 Dec 2013 23:15:35 +0400
+! Version: 201401242223
+! Last modified: Fri, 24 Jan 2014 22:23:12 +0400
 ! Homepage: https://github.com/rebelion76/bankiru_plus_adblock_list
 ! Expires: 2 hours
 ! ----------------------------------------------------
@@ -26,6 +26,8 @@ banki.ru##[class*="ad-block-teaser"]
 banki.ru##.ad-block-video
 ! Викибанк. Баннер под статьей
 banki.ru##.b-underBanner
+! Новость дня. Блок справа 
+banki.ru##.widget.ad-block-240x400
 ! Правый блок в НР. Спецпредложения
 banki.ru##[class*="b-ad-teaser"]
 ! Правый блок в НР. Остатки от баннера выше спецпредложений
