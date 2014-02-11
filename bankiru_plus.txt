@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201401242223
-! Last modified: Fri, 24 Jan 2014 22:23:12 +0400
+! Version: 201402112349
+! Last modified: Tue, 11 Feb 2014 23:49:57 +0400
 ! Homepage: https://github.com/rebelion76/bankiru_plus_adblock_list
 ! Expires: 2 hours
 ! ----------------------------------------------------
@@ -48,8 +48,9 @@ banki.ru##.b-ad-rightBanner
 
 ! Исключение, чтобы не блокировался смайлик ;-) 
 @@||banki.ru/bitrix/images/forum/smile/ad.gif
-! Исключение, чтобы работало верхнее меню
+! Исключения, чтобы работало верхнее меню
 @@||banki.ru/public/blocks/top-menu/top-menu.js
+@@||banki.ru/public/blocks/top-toolbar/top-toolbar.js
 ! Исключение для красной/желтой карточек/черепа 
 @@||banki.ru/bitrix/templates/.default/components/bitrix/forum/banki/images/popup/icon_card.png
 ! Исключение, чтобы работало открытие/скрытие отзывов в HP
