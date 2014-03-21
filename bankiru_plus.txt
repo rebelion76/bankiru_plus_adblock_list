@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201403112340
-! Last modified: Tue, 11 Mar 2014 23:40:26 +0400
+! Version: 201403220031
+! Last modified: Sat, 22 Mar 2014 00:31:47 +0400
 ! Homepage: https://github.com/rebelion76/bankiru_plus_adblock_list
 ! Expires: 2 hours
 ! ----------------------------------------------------
@@ -11,42 +11,41 @@
 ! http://bankiforum.ru/showthread.php/255-%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B4%D0%BB%D1%8F-Adblock-Plus
 ! ----------------------------------------------------                    
 ! Шапка. Плашка от верхнего баннера
-banki.ru##div.header__top-banner.wrapper
+banki.ru##.header__top-banner.wrapper
 ! Шапка. Баннера рядом с логотипом 
-banki.ru##div.header__banner
+banki.ru##.header__banner
 ! Шапка. Баннера рядом с логотипом 
-banki.ru##div.header__center-banner
+banki.ru##.header__center-banner
 ! Шапка. Баннера рядом с логотипом 
-banki.ru##div.header__right-banner
+banki.ru##.header__right-banner
 ! Шапка. Остатки от поиска
-banki.ru##A.branded-search__link
+banki.ru##.branded-search__link
 ! Подвал. Баннера 
 banki.ru##.ad-block-bottom
 ! Главная страница. Рекламные блоки. Форум. Правый блок 
-banki.ru##[class*="ad-block-teaser"]
+banki.ru##.ad-block-teaser
 ! Главная страница. Рекламный "видео"-блок 
 banki.ru##.ad-block-video
 ! Викибанк. Баннер под статьей
 banki.ru##.b-underBanner
-! Новость дня. Блок справа 
-banki.ru##.widget.ad-block-240x400
+! Блок справа на всех страницах
+banki.ru##.ad-block-240x400
 ! Правый блок в НР. Спецпредложения
-banki.ru##[class*="b-ad-teaser"]
-! Правый блок в НР. Остатки от баннера выше спецпредложений
-banki.ru##div.ad-block-240x400
+banki.ru##.b-ad-teaser
 ! Мелкие текстовые ссылки на  страницы сайта 
 banki.ru##span[style*="999999"]
 
 ! Старый дизайн. Главная страница. Баннера рядом с логотипом                          
 banki.ru##.b-topInformer .wrap .right table tbody tr td table
 ! Старый дизайн. Главная страница
-banki.ru##[id*="at-advertising-block"]
-! Старый дизайн. Главная страница. "Остатки" правых баннеров
-banki.ru##[id*="-right-banner"]
+banki.ru##.at-advertising-block
+! Старый дизайн. НР. Главная страница. Рекламное видео                          
+banki.ru##.b-ad-mainVideo
 ! Старый дизайн. Главная страница. Рекламный блок справа        
 banki.ru##.b-ad-newTeaser
 ! Старый дизайн. НР. "Остатки" правых баннеров
 banki.ru##.b-ad-rightBanner
+
 
 ! Исключение, чтобы не блокировался смайлик ;-) 
 @@||banki.ru/bitrix/images/forum/smile/ad.gif
