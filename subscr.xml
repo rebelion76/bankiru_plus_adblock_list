@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  - This file is part of the Adblock Plus web scripts,
+  - Copyright (C) 2006-2014 Eyeo GmbH
+  -
+  - Adblock Plus is free software: you can redistribute it and/or modify
+  - it under the terms of the GNU General Public License version 3 as
+  - published by the Free Software Foundation.
+  -
+  - Adblock Plus is distributed in the hope that it will be useful,
+  - but WITHOUT ANY WARRANTY; without even the implied warranty of
+  - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  - GNU General Public License for more details.
+  -
+  - You should have received a copy of the GNU General Public License
+  - along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+<subscriptions>
+  <subscription title="EasyList" specialization="English" homepage="https://easylist.adblockplus.org/" type="ads" prefixes="en">
+    <variants>
+      <variant title="EasyList" url="https://easylist-downloads.adblockplus.org/easylist.txt"/>
+    </variants>
+    <supplements>
+  
+  <subscription title="RU" specialization="русский" homepage="http://rebelion76.livejournal.com" type="ads" prefixes="ru">
+    <variants>
+      <variant title="RuAdList+EasyList" url="https://easylist-downloads.adblockplus.org/ruadlist+easylist.txt" complete="true"/>
+      <variant title="RU AdList" url="https://easylist-downloads.adblockplus.org/advblock.txt"/>
+      <variant title="RU banki.ru+" url="https://raw.githubusercontent.com/rebelion76/bankiru_plus_adblock_list/master/bankiru_plus.txt"/>
+    </variants>
+  </subscription>
+    </supplements>
+  </subscription>
+</subscriptions>
