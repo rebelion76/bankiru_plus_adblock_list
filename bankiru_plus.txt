@@ -22,6 +22,8 @@ banki.ru##.header__right-banner
 banki.ru##.branded-search__link
 ! Подвал. Баннера 
 banki.ru##.ad-block-bottom
+! Главная страница. Огромный баннер справа и слева
+banki.ru##.branding-wall
 ! Главная страница. Рекламные блоки. Форум. Правый блок 
 banki.ru##.ad-block-teaser
 ! Главная страница. Рекламный "видео"-блок 
