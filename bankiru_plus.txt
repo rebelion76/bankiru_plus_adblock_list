@@ -69,3 +69,5 @@ banki.ru##.b-ad-rightBanner
 @@||banki.ru/*popup*
 ! Исключение для логотипа Авангарда
 @@||banki.ru/upload/iblock/ad4/*
+! Исключение для тизера 10 лет
+@@||banki.ru/static/widgets/ten_years/teaser.css
