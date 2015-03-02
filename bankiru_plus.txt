@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201502042343
-! Last modified: Wed,  4 Feb 2015 23:43:14 +0300
+! Version: 201503022254
+! Last modified: Mon,  2 Mar 2015 22:54:22 +0300
 ! Homepage: https://github.com/rebelion76/bankiru_plus_adblock_list
 ! Expires: 2 hours
 ! ----------------------------------------------------
