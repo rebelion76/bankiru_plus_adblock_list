@@ -7,8 +7,8 @@
 ! Это список для блокировки рекламы на сайте banki.ru,
 ! которая не блокируется "обычными" списками
 ! Список поддерживается rebelion76 (rebelion76@gmail.com)
-! Вопросы, замечания и преложения принимаются по адресу:
-! http://www.banki.ru/forum/?PAGE_NAME=message&FID=9&TID=109172
+! Вопросы, замечания и предложения принимаются по адресу:
+! http://rebelion76.livejournal.com
 ! ----------------------------------------------------                    
 ! Шапка. Плашка от верхнего баннера
 banki.ru##.header__top-banner
@@ -71,3 +71,5 @@ banki.ru##.b-ad-rightBanner
 @@||banki.ru/upload/iblock/ad4/*
 ! Исключение для тизера 10 лет
 @@||banki.ru/static/widgets/ten_years/teaser.css
+! Исключение для 'лайков'
+banki.ru#@#.social-likes
