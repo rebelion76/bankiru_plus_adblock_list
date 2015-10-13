@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201503022254
-! Last modified: Mon,  2 Mar 2015 22:54:22 +0300
+! Version: 201510132349
+! Last modified: Tue, 13 Oct 2015 23:49:48 +0300
 ! Homepage: https://github.com/rebelion76/bankiru_plus_adblock_list
 ! Expires: 2 hours
 ! ----------------------------------------------------
@@ -12,6 +12,7 @@
 ! ----------------------------------------------------                    
 ! Шапка. Плашка от верхнего баннера
 banki.ru##.header__top-banner
+banki.ru##.header-hor-banner
 ! Шапка. Баннера рядом с логотипом 
 banki.ru##.header__banner
 ! Шапка. Баннера рядом с логотипом 
