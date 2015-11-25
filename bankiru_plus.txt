@@ -10,6 +10,8 @@
 ! Вопросы, замечания и предложения принимаются по адресу:
 ! http://rebelion76.livejournal.com
 ! ----------------------------------------------------                    
+! 'Круги' на главной странице
+banki.ru##.wrapper.margin-bottom-default.border-default.bg-white
 ! Шапка. Плашка от верхнего баннера
 banki.ru##.header__top-banner
 banki.ru##.header-hor-banner
