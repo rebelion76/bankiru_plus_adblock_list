@@ -11,7 +11,7 @@
 ! http://rebelion76.livejournal.com
 ! ----------------------------------------------------                    
 ! 'Круги' на главной странице
-banki.ru##.wrapper.margin-bottom-default.border-default.bg-white
+banki.ru##.layout-wrapper.position-relative.margin-bottom-default.border-default.bg-white
 ! Шапка. Плашка от верхнего баннера
 banki.ru##.header__top-banner
 banki.ru##.header-hor-banner
@@ -27,6 +27,7 @@ banki.ru##.branded-search__link
 banki.ru##.ad-block-bottom
 ! Главная страница. Огромный баннер справа и слева
 banki.ru##.branding-wall
+banki.ru##.branding-bg
 ! Главная страница. Рекламные блоки. Форум. Правый блок 
 banki.ru##.ad-block-teaser
 ! Главная страница. Рекламный "видео"-блок 
